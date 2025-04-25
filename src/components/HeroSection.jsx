@@ -56,7 +56,7 @@ const Hero = () => {
          
             <div className="relative mt-8 w-full max-w-2xl z-10">
                 <textarea
-                    className="w-full h-40 p-4 pr-24 rounded-xl bg-white/90 backdrop-blur text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none shadow-lg animate-placeholderScroll"
+                    className="w-full h-40 p-4 pr-24 rounded-xl bg-white/90 backdrop-blur text-gray-700 placeholder-gray-400 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none shadow-lg animate-placeholderScroll"
                     placeholder="Type your idea to build a website..."
                     id="animated-textarea"
                 ></textarea>
